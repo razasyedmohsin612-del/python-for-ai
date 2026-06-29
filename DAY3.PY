@@ -1,4 +1,4 @@
-# Day 3: Variables and Data Types
+# Day 1: Variables and Data Types
 
 # Variables
 name = "Alice"
@@ -27,3 +27,28 @@ a,b = 10 , 20
 a,b =b,a
 print(a)
 print(b)
+
+# mutable vs immutable data types
+# Mutable data types can be changed after creation (e.g., list, dict, set)
+# immutable data types cannot be changed after creation (e.g., str, tuple)
+
+# OPERATORS
+# Arithmetic Operators:
+# +
+# -
+# *
+# /
+# %
+# **
+# //
+# Comparison Operators:
+# > , < , >= , <= , == , !=
+# logical Operators:
+# and , or , not
+# assignment Operators:
+# = , += , -= , *= , /= , %= , **= , //=
+# identity Operators:
+# is , is not
+# membership Operators:
+# in , not in
+print("This is all from myside for this lecture")
